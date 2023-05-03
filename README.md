@@ -1,0 +1,2 @@
+# partielC
+Sudoku en C
