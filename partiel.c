@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-//Je n'ai pas réussi à générer des nombres alétaoire de depart dans la grille.. les nombres se suivent donc de 1 à 9.
+//Je n'ai pas réussi à générer des nombres aléatoire de depart dans la grille.. les nombres se suivent donc de 1 à 9.
 //Écrire la fonction generer() qui prend en paramètre une grille de sudoku et qui affiche la grille de sudoku
 
 void generer(int grid[9][9]) {
